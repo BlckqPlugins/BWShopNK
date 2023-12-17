@@ -1,0 +1,12 @@
+name: BWShop
+api: 1.0.0
+version: 1.0.0
+main: eu.pixelstudios.bwshop.Main
+author: "PixelStudios Development"
+
+depend:
+  - FakeInventories
+
+commands:
+  shop:
+    description: Shop command
